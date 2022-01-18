@@ -3,6 +3,10 @@
 
 <h2>Introduction 💛</h2>
 
+
+[![Tindog](https://img.shields.io/badge/Tindog🐶-1DA1F2?style=for-the-badge&logo=Tindog&logoColor=white)](https://meetahaldar.github.io/Tindog-project/)
+
+
 <ul>
   <li>
   Having different sections
